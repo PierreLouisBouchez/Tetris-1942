@@ -1,1 +1,3 @@
-# Tetris-1942
+# Tetris BP
+
+Project Tetris SFML
